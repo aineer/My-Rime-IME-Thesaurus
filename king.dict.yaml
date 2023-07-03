@@ -1,0 +1,1555 @@
+# Rime dictionary   encoding: utf-8
+# 
+# 
+# 
+# 历代帝王
+# 
+# 
+# 
+# 
+# 
+# 多音字时，需手动添加注音，如：复校	fu jiao	1
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 于重新部署后生效
+#
+
+---
+name: e_pinyin.king
+version: "2019.9"
+sort: by_weight
+use_preset_vocabulary: false
+...
+
+哀宗	ai zong
+安宗	an zong
+白马	bai ma
+般庚	ban geng
+包牺	bao xi
+宝鼎	bao ding
+宝历	bao li
+宝庆	bao qing
+宝义	bao yi
+宝应	bao ying
+宝佑	bao you
+宝元	bao yuan
+保大	bao da
+保定	bao ding
+保宁	bao ning
+本初	ben chu
+本始	ben shi
+卜丙	bu bing
+卜壬	bu ren
+不降	bu jiang
+曹操	cao cao
+曹芳	cao fang
+曹奂	cao huan
+曹髦	cao mao
+曹丕	cao pi
+曹睿	cao rui
+曹嵩	cao song
+曹腾	cao teng
+柴荣	chai rong
+奲都	duo du
+陈蒨	chen qian
+陈顼	chen xu
+成化	cheng hua
+成汤	cheng tang
+成宗	cheng zong
+成祖	cheng zu
+承安	cheng an
+承光	cheng guang
+承明	cheng ming
+承平	cheng ping
+承圣	cheng sheng
+蚩尤	chi you
+赤乌	chi wu
+崇德	chong de
+崇宁	chong ning
+崇庆	chong qing
+崇祯	chong zhen
+崇宗	chong zong
+初平	chu ping
+初始	chu shi
+初元	chu yuan
+垂拱	chui gong
+淳化	chun hua
+淳熙	chun xi
+淳佑	chun you
+大安	da an
+大宝	da bao
+大成	da cheng
+大德	da de
+大丁	da ding
+大定	da ding
+大庚	da geng
+大观	da guan
+大和	da he
+大甲	da jia
+大康	da kang
+大历	da li
+大明	da ming
+大宁	da ning
+大庆	da qing
+大顺	da shun
+大通	da tong
+大同	da tong
+大统	da tong
+大戊	da wu
+大象	da xiang
+大业	da ye
+大禹	da yu
+大中	da zhong
+大足	da zu
+代王	dai wang
+代宗	dai zong
+道光	dao guang
+道宗	dao zong
+德昌	de chang
+德佑	de you
+德宗	de zong
+德祖	de zu
+登国	deng guo
+地皇	di huang
+地节	di jie
+帝哀	di ai
+帝承	di cheng
+帝厘	di li
+帝明	di ming
+帝辛	di xin
+帝乙	di yi
+帝禹	di yu
+帝直	di zhi
+定宗	ding zong
+董江	dong jiang
+度宗	du zong
+端拱	duan gong
+端平	duan ping
+端宗	duan zong
+发惠	fa hui
+放勋	fang xun
+废帝	fei di
+芬发	fen fa
+凤凰	feng huang
+凤历	feng li
+福临	fu lin
+福满	fu man
+复辟	fu bi
+甘露	gan lu
+干道	gan dao
+干德	gan de
+干定	gan ding
+干封	gan feng
+干符	gan fu
+干亨	gan heng
+干化	gan hua
+干明	gan ming
+干宁	gan ning
+干统	gan tong
+干兴	gan xing
+干佑	gan you
+皋陶	gao yao
+高澄	gao cheng
+高恒	gao heng
+高欢	gao huan
+高湝	gao jie
+高密	gao mi
+高纬	gao wei
+高演	gao yan
+高阳	gao yang
+高洋	gao yang
+高殷	gao yin
+高湛	gao zhan
+高宗	gao zong
+高祖	gao zu
+庚丁	geng ding
+更始	geng shi
+宫涅	gong nie
+恭宗	gong zong
+拱化	gong hua
+共工	gong gong
+光大	guang da
+光定	guang ding
+光和	guang he
+光化	guang hua
+光启	guang qi
+光熙	guang xi
+光熹	guang xi
+光绪	guang xu
+光宅	guang zhai
+光宗	guang zong
+广德	guang de
+广明	guang ming
+广顺	guang shun
+广运	guang yun
+贵由	gui you
+郭谌	guo chen
+郭简	guo jian
+郭璟	guo jing
+郭荣	guo rong
+郭威	guo wei
+郭蕴	guo yun
+海山	hai shan
+韩浞	han zhuo
+寒浞	han zhuo
+汉安	han an
+和平	he ping
+河平	he ping
+河清	he qing
+弘道	hong dao
+弘光	hong guang
+弘历	hong li
+弘治	hong zhi
+洪武	hong wu
+洪熙	hong xi
+洪宪	hong xian
+鸿嘉	hong jia
+后谥	hou shi
+后羿	hou yi
+后元	hou yuan
+后主	hou zhu
+胡亥	hu hai
+胡齐	hu qi
+桓宗	huan zong
+皇建	huang jian
+皇健	huang jian
+皇庆	huang qing
+皇始	huang shi
+皇泰	huang tai
+皇统	huang tong
+皇羲	huang xi
+皇兴	huang xing
+皇佑	huang you
+黄初	huang chu
+黄帝	huang di
+黄龙	huang long
+黄武	huang wu
+徽宗	hui zong
+会昌	hui chang
+会同	hui tong
+惠宗	hui zong
+惠祖	hui zu
+姬昌	ji chang
+季杼	ji zhu
+嘉定	jia ding
+嘉禾	jia he
+嘉靖	jia jing
+嘉平	jia ping
+嘉庆	jia qing
+嘉泰	jia tai
+嘉熙	jia xi
+嘉佑	jia you
+戋甲	jian jia
+简昊	jian hao
+建安	jian an
+建初	jian chu
+建德	jian de
+建光	jian guang
+建国	jian guo
+建和	jian he
+建衡	jian heng
+建康	jian kang
+建隆	jian long
+建明	jian ming
+建宁	jian ning
+建平	jian ping
+建始	jian shi
+建文	jian wen
+建武	jian wu
+建兴	jian xing
+建炎	jian yan
+建义	jian yi
+建元	jian yuan
+建昭	jian zhao
+建中	jian zhong
+叫场	jiao chang
+景初	jing chu
+景德	jing de
+景定	jing ding
+景福	jing fu
+景和	jing he
+景皇	jing huang
+景龙	jing long
+景明	jing ming
+景平	jing ping
+景泰	jing tai
+景炎	jing yan
+景耀	jing yao
+景佑	jing you
+景元	jing yuan
+景云	jing yun
+景宗	jing zong
+景祖	jing zu
+竟宁	jing ning
+敬发	jing fa
+敬宗	jing zong
+敬祖	jing zu
+靖康	jing kang
+靖祖	jing zu
+久视	jiu shi
+居摄	ju she
+开宝	kai bao
+开成	kai cheng
+开皇	kai huang
+开平	kai ping
+开庆	kai qing
+开泰	kai tai
+开禧	kai xi
+开兴	kai xing
+开耀	kai yao
+开运	kai yun
+康丁	kang ding
+康定	kang ding
+康熙	kang xi
+康宗	kang zong
+孔皋	kong gao
+孔甲	kong jia
+礼宗	li zong
+李昂	li ang
+李昞	li bing
+李瀍	li chan
+李忱	li chen
+李纯	li chun
+李琮	li cong
+李漼	li cui
+李旦	li dan
+李耳	li er
+李暠	li gao
+李亨	li heng
+李恒	li heng
+李弘	li hong
+李虎	li hu
+李教	li jiao
+李敬	li jing
+李霓	li ni
+李适	li shi
+李诵	li song
+李倓	li tan
+李熙	li xi
+李显	li xian
+李宪	li xian
+李睍	li xian
+李儇	li xuan
+李琰	li yan
+李晔	li ye
+李聿	li yu
+李豫	li yu
+李渊	li yuan
+李湛	li zhan
+李治	li zhi
+李柷	li zhu
+理宗	li zong
+烈宗	lie zong
+烈祖	lie zu
+临魁	lin kui
+麟德	lin de
+廪辛	lin xin
+刘昂	liu ang
+刘骜	liu ao
+刘邦	liu bang
+刘保	liu bao
+刘备	liu bei
+刘辩	liu bian
+刘炳	liu bing
+刘禅	liu chan
+刘彻	liu che
+刘崇	liu chong
+刘炟	liu da
+刘恭	liu gong
+刘贺	liu he
+刘恒	liu heng
+刘弘	liu hong
+刘宏	liu hong
+刘祜	liu hu
+刘骏	liu jun
+刘衎	liu kan
+刘隆	liu long
+刘启	liu qi
+刘翘	liu qiao
+刘劭	liu shao
+刘奭	liu shi
+刘琠	liu tian
+刘湍	liu tuan
+刘协	liu xie
+刘欣	liu xin
+刘秀	liu xiu
+刘玄	liu xuan
+刘询	liu xun
+刘懿	liu yi
+刘婴	liu ying
+刘盈	liu ying
+刘昱	liu yu
+刘彧	liu yu
+刘裕	liu yu
+刘肇	liu zhao
+刘志	liu zhi
+刘僎	liu zhuan
+刘庄	liu zhuang
+刘准	liu zhun
+刘缵	liu zuan
+龙德	long de
+龙纪	long ji
+龙朔	long shuo
+隆安	long an
+隆昌	long chang
+隆和	long he
+隆化	long hua
+隆庆	long qing
+隆武	long wu
+隆兴	long xing
+禄父	lu fu
+履癸	lv gui
+蒙哥	meng ge
+宓羲	mi xi
+旻宁	min ning
+明昌	ming chang
+明道	ming dao
+明宗	ming zong
+末帝	mo di
+穆宗	mu zong
+南庚	nan geng
+宁康	ning kang
+宁宗	ning zong
+盘庚	pan geng
+庖牺	pao xi
+辟方	pi fang
+普泰	pu tai
+普通	pu tong
+溥仪	pu yi
+乾隆	qian long
+干元	gan yuan
+羌甲	qiang jia
+且丁	qie ding
+且庚	qie geng
+且甲	qie jia
+且辛	qie xin
+且乙	qie yi
+钦宗	qin zong
+青龙	qing long
+清宁	qing ning
+清泰	qing tai
+庆历	qing li
+庆元	qing yuan
+庆祖	qing zu
+去疾	qu ji
+人庆	ren qing
+壬臣	ren chen
+仁寿	ren shou
+仁宗	ren zong
+仁祖	ren zu
+戎禹	rong yu
+如意	ru yi
+睿宗	rui zong
+睿祖	rui zu
+上元	shang yuan
+少帝	shao di
+少昊	shao hao
+少康	shao kang
+少主	shao zhu
+绍定	shao ding
+绍圣	shao sheng
+绍泰	shao tai
+绍武	shao wu
+绍熙	shao xi
+绍兴	shao xing
+绍宗	shao zong
+神册	shen ce
+神凤	shen feng
+神功	shen gong
+神龟	shen gui
+神麚	shen jia
+神爵	shen jue
+神龙	shen long
+神瑞	shen rui
+神宗	shen zong
+升明	sheng ming
+升平	sheng ping
+圣历	sheng li
+圣宗	sheng zong
+圣祖	sheng zu
+石彬	shi bin
+石璟	shi jing
+石昱	shi yu
+始光	shi guang
+始元	shi yuan
+始祖	shi zu
+世宗	shi zong
+世祖	shi zu
+收国	shou guo
+寿昌	shou chang
+寿隆	shou long
+顺帝	shun di
+顺治	shun zhi
+顺宗	shun zong
+顺祖	shun zu
+思宗	si zong
+姒启	si qi
+嗣圣	si sheng
+肃宗	su zong
+肃祖	su zu
+绥和	sui he
+孙策	sun ce
+孙皓	sun hao
+孙和	sun he
+孙坚	sun jian
+孙亮	sun liang
+孙权	sun quan
+孙休	sun xiu
+塔失	ta shi
+太安	tai an
+太昌	tai chang
+太初	tai chu
+太丁	tai ding
+太庚	tai geng
+太和	tai he
+太极	tai ji
+太甲	tai jia
+太建	tai jian
+太康	tai kang
+太宁	tai ning
+太平	tai ping
+太清	tai qing
+太始	tai shi
+太戊	tai wu
+太熙	tai xi
+太兴	tai xing
+太延	tai yan
+太元	tai yuan
+太宗	tai zong
+太祖	tai zu
+泰昌	tai chang
+泰常	tai chang
+泰定	tai ding
+泰和	tai he
+泰始	tai shi
+泰豫	tai yu
+唐隆	tang long
+天安	tian an
+天宝	tian bao
+天保	tian bao
+天册	tian ce
+天成	tian cheng
+天赐	tian ci
+天聪	tian cong
+天德	tian de
+天凤	tian feng
+天福	tian fu
+天辅	tian fu
+天复	tian fu
+天汉	tian han
+天和	tian he
+天皇	tian huang
+天会	tian hui
+天纪	tian ji
+天嘉	tian jia
+天监	tian jian
+天眷	tian juan
+天康	tian kang
+天历	tian li
+天禄	tian lu
+天命	tian ming
+天平	tian ping
+天启	tian qi
+天庆	tian qing
+天圣	tian sheng
+天盛	tian sheng
+天授	tian shou
+天顺	tian shun
+天统	tian tong
+天玺	tian xi
+天禧	tian xi
+天显	tian xian
+天兴	tian xing
+天乙	tian yi
+天佑	tian you
+天元	tian yuan
+天赞	tian zan
+天正	tian zheng
+调露	diao lu
+同光	tong guang
+同治	tong zhi
+统和	tong he
+统宗	tong zong
+拖雷	tuo lei
+外丙	wai bing
+外壬	wai ren
+万历	wan li
+王莽	wang mang
+威宗	wei zong
+文德	wen de
+文丁	wen ding
+文明	wen ming
+文命	wen ming
+文宗	wen zong
+文祖	wen zu
+沃丁	wo ding
+沃甲	wo jia
+五凤	wu feng
+武成	wu cheng
+武德	wu de
+武丁	wu ding
+武定	wu ding
+武庚	wu geng
+武华	wu hua
+武俭	wu jian
+武平	wu ping
+武泰	wu tai
+武乙	wu yi
+武瞾	wu zhao
+武宗	wu zong
+牺皇	xi huang
+熙宁	xi ning
+熙平	xi ping
+熙宗	xi zong
+熙祖	xi zu
+僖宗	xi zong
+僖祖	xi zu
+熹平	xi ping
+熹宗	xi zong
+夏桀	xia jie
+夏启	xia qi
+夏禹	xia yu
+先帝	xian di
+先谥	xian shi
+先天	xian tian
+咸安	xian an
+咸淳	xian chun
+咸丰	xian feng
+咸和	xian he
+咸亨	xian heng
+咸康	xian kang
+咸宁	xian ning
+咸平	xian ping
+咸通	xian tong
+咸熙	xian xi
+咸雍	xian yong
+显道	xian dao
+显德	xian de
+显庆	xian qing
+显宗	xian zong
+显祖	xian zu
+宪宗	xian zong
+宪祖	xian zu
+献宗	xian zong
+献祖	xian zu
+相安	xiang an
+相曼	xiang man
+襄宗	xiang zong
+祥兴	xiang xing
+项羽	xiang yu
+象甲	xiang jia
+萧詧	xiao cha
+萧琮	xiao cong
+萧栋	xiao dong
+萧纲	xiao gang
+萧欢	xiao huan
+萧岿	xiao kui
+萧鸾	xiao luan
+萧统	xiao tong
+萧衍	xiao yan
+萧绎	xiao yi
+萧赜	xiao ze
+萧庄	xiao zhuang
+小甲	xiao jia
+小辛	xiao xin
+小乙	xiao yi
+孝昌	xiao chang
+孝建	xiao jian
+孝宗	xiao zong
+泄心	xie xin
+信祖	xin zu
+兴安	xing an
+兴定	xing ding
+兴光	xing guang
+兴和	xing he
+兴宁	xing ning
+兴平	xing ping
+兴元	xing yuan
+兴宗	xing zong
+兴祖	xing zu
+轩辕	xuan yuan
+宣德	xuan de
+宣光	xuan guang
+宣和	xuan he
+宣统	xuan tong
+宣政	xuan zheng
+宣宗	xuan zong
+宣祖	xuan zu
+玄嚣	xuan xiao
+玄烨	xuan ye
+玄宗	xuan zong
+玄祖	xuan zu
+延昌	yan chang
+延光	yan guang
+延和	yan he
+延康	yan kang
+延平	yan ping
+延熙	yan xi
+延熹	yan xi
+延兴	yan xing
+延佑	yan you
+延载	yan zai
+严祖	yan zu
+炎帝	yan di
+炎兴	yan xing
+阳嘉	yang jia
+阳甲	yang jia
+阳朔	yang shuo
+杨侗	yang dong
+杨广	yang guang
+杨坚	yang jian
+杨侑	yang you
+杨昭	yang zhao
+杨忠	yang zhong
+繄扈	yi hu
+仪凤	yi feng
+宜臼	yi jiu
+义宁	yi ning
+义熙	yi xi
+义宗	yi zong
+义祖	yi zu
+奕詝	yi zhu
+毅宗	yi zong
+毅祖	yi zu
+翼祖	yi zu
+懿宗	yi zong
+懿祖	yi zu
+隐帝	yin di
+胤甲	yin jia
+胤禛	yin zhen
+英宗	ying zong
+应历	ying li
+应顺	ying shun
+应天	ying tian
+雍己	yong ji
+雍宁	yong ning
+雍熙	yong xi
+雍正	yong zheng
+永安	yong an
+永昌	yong chang
+永初	yong chu
+永淳	yong chun
+永定	yong ding
+永光	yong guang
+永汉	yong han
+永和	yong he
+永徽	yong hui
+永嘉	yong jia
+永建	yong jian
+永康	yong kang
+永乐	yong le
+永历	yong li
+永隆	yong long
+永明	yong ming
+永宁	yong ning
+永平	yong ping
+永始	yong shi
+永寿	yong shou
+永泰	yong tai
+永熙	yong xi
+永兴	yong xing
+永元	yong yuan
+永贞	yong zhen
+幼主	you zhu
+余臣	yu chen
+榆罔	yu wang
+颙琰	yong yan
+裕宗	yu zong
+元初	yuan chu
+元德	yuan de
+元鼎	yuan ding
+元丰	yuan feng
+元封	yuan feng
+元凤	yuan feng
+元符	yuan fu
+元恭	yuan gong
+元光	yuan guang
+元和	yuan he
+元宏	yuan hong
+元怀	yuan huai
+元徽	yuan hui
+元嘉	yuan jia
+元康	yuan kang
+元恪	yuan ke
+元朗	yuan lang
+元平	yuan ping
+元钦	yuan qin
+元劭	yuan shao
+元始	yuan shi
+元寿	yuan shou
+元狩	yuan shou
+元朔	yuan shuo
+元统	yuan tong
+元熙	yuan xi
+元象	yuan xiang
+元勰	yuan xie
+元兴	yuan xing
+元修	yuan xiu
+元诩	yuan xu
+元延	yuan yan
+元晔	yuan ye
+元佑	yuan you
+元愉	yuan yu
+元羽	yuan yu
+元钊	yuan zhao
+元贞	yuan zhen
+越王	yue wang
+载初	zai chu
+载淳	zai chun
+载湉	zai tian
+章和	zhang he
+章武	zhang wu
+章宗	zhang zong
+长安	chang an
+长庆	chang qing
+长寿	chang shou
+长兴	chang xing
+昭宁	zhao ning
+昭宗	zhao zong
+昭祖	zhao zu
+赵昺	zhao bing
+赵敦	zhao dun
+赵构	zhao gou
+赵恒	zhao heng
+赵桓	zhao huan
+赵佶	zhao ji
+赵敬	zhao jing
+赵扩	zhao kuo
+赵禥	zhao qi
+赵眘	zhao shen
+赵昰	zhao shi
+赵曙	zhao shu
+赵朓	zhao tiao
+赵珽	zhao ting
+赵㬎	zhao 㬎
+赵顼	zhao xu
+赵煦	zhao xu
+赵昀	zhao yun
+赵祯	zhao zhen
+肇祖	zhao zu
+哲宗	zhe zong
+贞观	zhen guan
+贞明	zhen ming
+贞佑	zhen you
+贞元	zhen yuan
+真金	zhen jin
+真宗	zhen zong
+祯明	zhen ming
+征和	zheng he
+正大	zheng da
+正德	zheng de
+正光	zheng guang
+正隆	zheng long
+正平	zheng ping
+正始	zheng shi
+正统	zheng tong
+正元	zheng yuan
+证圣	zheng sheng
+政和	zheng he
+至大	zhi da
+至道	zhi dao
+至德	zhi de
+至和	zhi he
+至宁	zhi ning
+至顺	zhi shun
+至元	zhi yuan
+至正	zhi zheng
+至治	zhi zhi
+治平	zhi ping
+致和	zhi he
+中丁	zhong ding
+中和	zhong he
+中康	zhong kang
+中平	zhong ping
+中谥	zhong shi
+中统	zhong tong
+中兴	zhong xing
+中元	zhong yuan
+中宗	zhong zong
+仲丁	zhong ding
+仲康	zhong kang
+仲卢	zhong lu
+仲壬	zhong ren
+重和	zhong he
+重华	zhong hua
+重熙	zhong xi
+朱黯	zhu an
+朱标	zhu biao
+朱诚	zhu cheng
+朱棣	zhu di
+朱信	zhu xin
+颛顼	zhuan xu
+庄宗	zhuang zong
+子婴	zi ying
+总章	zong zhang
+祖丁	zu ding
+祖庚	zu geng
+祖己	zu ji
+祖甲	zu jia
+祖武	zu wu
+祖辛	zu xin
+祖乙	zu yi
+哀皇帝	ai huang di
+安定王	an ding wang
+安皇帝	an huang di
+柏皇氏	bai huang shi
+北乡侯	bei xiang hou
+柴宗训	chai zong xun
+昌邑王	chang yi wang
+陈霸先	chen ba xian
+陈伯宗	chen bo zong
+陈道谭	chen dao tan
+陈叔宝	chen shu bao
+陈文赞	chen wen zan
+成皇帝	cheng huang di
+崇伯鲧	chong bo gun
+崇伯禹	chong bo yu
+出皇帝	chu huang di
+淳皇帝	chun huang di
+大皇帝	da huang di
+大圣祖	da sheng zu
+大庭氏	da ting shi
+德皇帝	de huang di
+地皇氏	di huang shi
+帝临魁	di lin kui
+帝石年	di shi nian
+帝榆罔	di yu wang
+定皇帝	ding huang di
+端皇帝	duan huang di
+多尔衮	duo er gun
+甘麻剌	gan ma la
+高皇帝	gao huang di
+高树生	gao shu sheng
+高辛氏	gao xin shi
+高延宗	gao yan zong
+高阳氏	gao yang shi
+葛天氏	ge tian shi
+更始帝	geng shi di
+恭皇帝	gong huang di
+光皇帝	guang huang di
+郭宗训	guo zong xun
+海迷失	hai mi shi
+海西公	hai xi gong
+皞英氏	hao ying shi
+和皇帝	he huang di
+和世㻋	he shi 㻋
+河亶甲	he dan jia
+赫胥氏	he xu shi
+恒皇帝	heng huang di
+后废帝	hou fei di
+后少帝	hou shao di
+忽必烈	hu bi lie
+淮阳王	huai yang wang
+桓皇帝	huan huang di
+皇太极	huang tai ji
+惠皇帝	hui huang di
+浑沌氏	hun dun shi
+混沌氏	hun dun shi
+姜石年	jiang shi nian
+觉昌安	jue chang an
+节皇帝	jie huang di
+景皇帝	jing huang di
+敬皇帝	jing huang di
+静皇帝	jing huang di
+康皇帝	kang huang di
+骊连氏	li lian shi
+李安全	li an quan
+李秉常	li bing chang
+李纯佑	li chun you
+李从厚	li cong hou
+李从珂	li cong ke
+李存勖	li cun xu
+李德明	li de ming
+李德旺	li de wang
+李干顺	li gan shun
+李国昌	li guo chang
+李继迁	li ji qian
+李克用	li ke yong
+李谅祚	li liang zuo
+李隆基	li long ji
+李仁孝	li ren xiao
+李世民	li shi min
+李嗣源	li si yuan
+李天锡	li tian xi
+李元昊	li yuan hao
+李重茂	li zhong mao
+李遵顼	li zun xu
+栗陆氏	li lu shi
+烈皇帝	lie huang di
+烈山氏	lie shan shi
+临海王	lin hai wang
+刘承钧	liu cheng jun
+刘承佑	liu cheng you
+刘弗陵	liu fu ling
+刘继恩	liu ji en
+刘继元	liu ji yuan
+刘太公	liu tai gong
+刘义符	liu yi fu
+刘义隆	liu yi long
+刘知远	liu zhi yuan
+刘子业	liu zi ye
+孟特穆	meng te mu
+闵皇帝	min huang di
+明皇帝	ming huang di
+穆皇帝	mu huang di
+年开元	nian kai yuan
+女娲氏	nv wa shi
+盘古氏	pan gu shi
+平皇帝	ping huang di
+前废帝	qian fei di
+前少帝	qian shao di
+青阳氏	qing yang shi
+让皇帝	rang huang di
+人皇氏	ren huang shi
+孺子婴	ru zi ying
+殇皇帝	shang huang di
+石敬瑭	shi jing tang
+石绍雍	shi shao yong
+石重贵	shi zhong gui
+始皇帝	shi huang di
+始建国	shi jian guo
+顺皇帝	shun huang di
+司马炽	si ma chi
+司马聃	si ma dan
+司马丕	si ma pi
+司马睿	si ma rui
+司马绍	si ma shao
+司马师	si ma shi
+司马炎	si ma yan
+司马衍	si ma yan
+司马曜	si ma yao
+司马业	si ma ye
+司马奕	si ma yi
+司马懿	si ma yi
+司马昱	si ma yu
+司马岳	si ma yue
+司马昭	si ma zhao
+司马衷	si ma zhong
+思皇帝	si huang di
+宋帝昺	song di bing
+宋恭帝	song gong di
+燧人氏	sui ren shi
+塔克世	ta ke shi
+太皇帝	tai huang di
+太上皇	tai shang huang
+泰定帝	tai ding di
+陶唐氏	tao tang shi
+天皇氏	tian huang shi
+天顺帝	tian shun di
+天元帝	tian yuan di
+铁木儿	tie mu er
+铁木真	tie mu zhen
+拓跋绰	tuo ba chuo
+拓跋贷	tuo ba dai
+拓跋弗	tuo ba fu
+拓跋盖	tuo ba gai
+拓跋观	tuo ba guan
+拓跋圭	tuo ba gui
+拓跋弘	tuo ba hong
+拓跋晃	tuo ba huang
+拓跋机	tuo ba ji
+拓跋浚	tuo ba jun
+拓跋侩	tuo ba kuai
+拓跋廓	tuo ba kuo
+拓跋利	tuo ba li
+拓跋邻	tuo ba lin
+拓跋楼	tuo ba lou
+拓跋毛	tuo ba mao
+拓跋寔	tuo ba shi
+拓跋俟	tuo ba si
+拓跋肆	tuo ba si
+拓跋嗣	tuo ba si
+拓跋焘	tuo ba dao
+拓跋余	tuo ba yu
+拓跋越	tuo ba yue
+完颜亶	wan yan dan
+完颜璟	wan yan jing
+完颜亮	wan yan liang
+完颜晟	wan yan sheng
+完颜珣	wan yan xun
+完颜雍	wan yan yong
+威皇帝	wei huang di
+卫绍王	wei shao wang
+文皇帝	wen huang di
+窝阔台	wo kuo tai
+乌程侯	wu cheng hou
+无怀氏	wu huai shi
+武皇帝	wu huang di
+武居常	wu ju chang
+武克已	wu ke yi
+武士彟	wu shi huo
+僖皇帝	xi huang di
+夏伯禹	xia bo yu
+夏后开	xia hou kai
+夏后启	xia hou qi
+夏后氏	xia hou shi
+夏后禹	xia hou yu
+献皇帝	xian huang di
+萧宝卷	xiao bao juan
+萧宝融	xiao bao rong
+萧承之	xiao cheng zhi
+萧道成	xiao dao cheng
+萧道生	xiao dao sheng
+萧方智	xiao fang zhi
+萧顺之	xiao shun zhi
+萧渊明	xiao yuan ming
+萧长懋	xiao chang mao
+萧昭文	xiao zhao wen
+萧昭业	xiao zhao ye
+萧正德	xiao zheng de
+孝皇帝	xiao huang di
+宣皇帝	xuan huang di
+玄皇帝	xuan huang di
+炀皇帝	yang huang di
+耶律倍	ye lv bei
+耶律璟	ye lv jing
+耶律浚	ye lv jun
+耶律阮	ye lv ruan
+耶律贤	ye lv xian
+也速该	ye su gai
+翼皇帝	yi huang di
+阴康氏	yin kang shi
+有巢氏	you chao shi
+有熊氏	you xiong shi
+有虞氏	you yu shi
+宇文肱	yu wen gong
+宇文觉	yu wen jue
+宇文泰	yu wen tai
+宇文衍	yu wen yan
+宇文邕	yu wen yong
+宇文毓	yu wen yu
+宇文赟	yu wen yun
+郁林王	yu lin wang
+裕皇帝	yu huang di
+元宝炬	yuan bao ju
+元皇帝	yuan huang di
+元善见	yuan shan jian
+元子攸	yuan zi you
+袁世凯	yuan shi kai
+原皇帝	yuan huang di
+章皇帝	zhang huang di
+长广王	chang guang wang
+昭皇帝	zhao huang di
+赵光义	zhao guang yi
+赵弘殷	zhao hong yin
+赵匡胤	zhao kuang yin
+赵玄朗	zhao xuan lang
+直皇帝	zhi huang di
+中大通	zhong da tong
+中大同	zhong da tong
+中央氏	zhong yang shi
+周哀王	zhou ai wang
+周成王	zhou cheng wang
+周悼王	zhou dao wang
+周定王	zhou ding wang
+周共王	zhou gong wang
+周桓王	zhou huan wang
+周惠王	zhou hui wang
+周简王	zhou jian wang
+周景王	zhou jing wang
+周敬王	zhou jing wang
+周康王	zhou kang wang
+周匡王	zhou kuang wang
+周厉王	zhou li wang
+周灵王	zhou ling wang
+周穆王	zhou mu wang
+周赧王	zhou nan wang
+周平王	zhou ping wang
+周顷王	zhou qing wang
+周思王	zhou si wang
+周文王	zhou wen wang
+周武王	zhou wu wang
+周僖王	zhou xi wang
+周襄王	zhou xiang wang
+周孝王	zhou xiao wang
+周宣王	zhou xuan wang
+周夷王	zhou yi wang
+周懿王	zhou yi wang
+周幽王	zhou you wang
+周元王	zhou yuan wang
+周昭王	zhou zhao wang
+周庄王	zhou zhuang wang
+朱百六	zhu bai liu
+朱常洛	zhu chang luo
+朱常洵	zhu chang xun
+朱常瀛	zhu chang ying
+朱初一	zhu chu yi
+朱高炽	zhu gao chi
+朱厚熜	zhu hou cong
+朱厚照	zhu hou zhao
+朱见濡	zhu jian ru
+朱茂琳	zhu mao lin
+朱祁钰	zhu qi yu
+朱祁镇	zhu qi zhen
+朱器墭	zhu qi sheng
+朱全忠	zhu quan zhong
+朱世珍	zhu shi zhen
+朱硕熿	zhu shuo huang
+朱四九	zhu si jiu
+朱襄氏	zhu xiang shi
+朱翊钧	zhu yi jun
+朱由检	zhu you jian
+朱由榔	zhu you lang
+朱由崧	zhu you song
+朱由校	zhu you xiao
+朱友圭	zhu you gui
+朱友贞	zhu you zhen
+朱佑樘	zhu you tang
+朱佑杬	zhu you yuan
+朱宇温	zhu yu wen
+朱聿键	zhu yu jian
+朱元璋	zhu yuan zhang
+朱允炆	zhu yun wen
+朱载坖	zhu zai ji
+朱瞻基	zhu zhan ji
+朱宙栐	zhu zhou yong
+庄皇帝	zhuang huang di
+尊卢氏	zun lu shi
+阿速吉八	a su ji ba
+承天皇帝	cheng tian huang di
+大中祥符	da zhong xiang fu
+德明皇帝	de ming huang di
+东昏炀侯	dong hun yang hou
+二世皇帝	er shi huang di
+奉天皇帝	feng tian huang di
+福圣承道	fu sheng cheng dao
+高贵乡公	gao gui xiang gong
+恭僖皇帝	gong xi huang di
+光圣皇帝	guang sheng huang di
+光武皇帝	guang wu huang di
+光献皇帝	guang xian huang di
+海陵恭王	hai ling gong wang
+海陵炀王	hai ling yang wang
+海迷失后	hai mi shi hou
+弘农怀王	hong nong huai wang
+后谥高祖	hou shi gao zu
+后谥太宗	hou shi tai zong
+后谥太祖	hou shi tai zu
+后谥显祖	hou shi xian zu
+后有巢氏	hou you chao shi
+桓肃皇帝	huan su huang di
+简平皇帝	jian ping huang di
+简文皇帝	jian wen huang di
+简献皇帝	jian xian huang di
+建武中元	jian wu zhong yuan
+建中靖国	jian zhong jing guo
+节闵皇帝	jie min huang di
+景穆皇帝	jing mu huang di
+敬穆皇帝	jing mu huang di
+九黎时期	jiu li shi qi
+康靖皇帝	kang jing huang di
+明宪皇帝	ming xian huang di
+明元皇帝	ming yuan huang di
+乃马真后	nai ma zhen hou
+南安隐王	nan an yin wang
+努尔哈赤	nu er ha chi
+平文皇帝	ping wen huang di
+齐圣皇帝	qi sheng huang di
+钦淑皇后	qin shu huang hou
+睿和皇帝	rui he huang di
+邵陵厉公	shao ling li gong
+神武皇帝	shen wu huang di
+神元皇帝	shen yuan huang di
+圣德皇帝	sheng de huang di
+圣文皇帝	sheng wen huang di
+圣武皇帝	sheng wu huang di
+硕德八剌	shuo de ba la
+司马德文	si ma de wen
+司马德宗	si ma de zong
+太初元将	tai chu yuan jiang
+太平兴国	tai ping xing guo
+太平真君	tai ping zhen jun
+太武皇帝	tai wu huang di
+天安礼定	tian an li ding
+天册万岁	tian ce wan sui
+天皇大帝	tian huang da di
+天仪治平	tian yi zhi ping
+天佑垂圣	tian you chui sheng
+天佑民安	tian you min an
+图帖睦尔	tu tie mu er
+脱列哥那	tuo lie ge na
+拓跋纥那	tuo ba he na
+拓跋贺傉	tuo ba he nu
+拓跋诘汾	tuo ba jie fen
+拓跋力微	tuo ba li wei
+拓跋禄官	tuo ba lu guan
+拓跋普根	tuo ba pu gen
+拓跋推寅	tuo ba tui yin
+拓跋悉鹿	tuo ba xi lu
+拓跋猗卢	tuo ba yi lu
+拓跋猗㐌	tuo ba yi 㐌
+拓跋翳槐	tuo ba yi huai
+拓跋郁律	tuo ba yu lv
+完颜跋海	wan yan ba hai
+完颜承麟	wan yan cheng lin
+完颜函普	wan yan han pu
+完颜石鲁	wan yan shi lu
+完颜守绪	wan yan shou xu
+完颜绥可	wan yan sui ke
+完颜乌鲁	wan yan wu lu
+完颜盈歌	wan yan ying ge
+完颜永济	wan yan yong ji
+完颜允恭	wan yan yun gong
+完颜宗干	wan yan zong gan
+完颜宗峻	wan yan zong jun
+完颜宗尧	wan yan zong yao
+万岁登封	wan sui deng feng
+万岁通天	wan sui tong tian
+文成皇帝	wen cheng huang di
+文景皇帝	wen jing huang di
+文穆皇帝	wen mu huang di
+文平皇帝	wen ping huang di
+文襄皇帝	wen xiang huang di
+文宣皇帝	wen xuan huang di
+五帝时期	wu di shi qi
+武成皇帝	wu cheng huang di
+武怀皇帝	wu huai huang di
+武烈皇帝	wu lie huang di
+武穆皇帝	wu mu huang di
+武元皇帝	wu yuan huang di
+西楚霸王	xi chu ba wang
+献明皇帝	xian ming huang di
+献文皇帝	xian wen huang di
+献武皇帝	xian wu huang di
+孝哀皇帝	xiao ai huang di
+孝安皇帝	xiao an huang di
+孝成皇帝	xiao cheng huang di
+孝冲皇帝	xiao chong huang di
+孝恭皇帝	xiao gong huang di
+孝和皇帝	xiao he huang di
+孝怀皇帝	xiao huai huang di
+孝桓皇帝	xiao huan huang di
+孝惠皇帝	xiao hui huang di
+孝简皇帝	xiao jian huang di
+孝景皇帝	xiao jing huang di
+孝敬皇帝	xiao jing huang di
+孝靖皇帝	xiao jing huang di
+孝静皇帝	xiao jing huang di
+孝康皇帝	xiao kang huang di
+孝灵皇帝	xiao ling huang di
+孝闵皇帝	xiao min huang di
+孝愍皇帝	xiao min huang di
+孝明皇帝	xiao ming huang di
+孝平皇帝	xiao ping huang di
+孝殇皇帝	xiao shang huang di
+孝顺皇帝	xiao shun huang di
+孝文皇帝	xiao wen huang di
+孝武皇帝	xiao wu huang di
+孝献皇帝	xiao xian huang di
+孝宣皇帝	xiao xuan huang di
+孝元皇帝	xiao yuan huang di
+孝章皇帝	xiao zhang huang di
+孝昭皇帝	xiao zhao huang di
+孝质皇帝	xiao zhi huang di
+兴德皇帝	xing de huang di
+兴圣皇帝	xing sheng huang di
+宣简皇帝	xuan jian huang di
+宣武皇帝	xuan wu huang di
+宣元皇帝	xuan yuan huang di
+延嗣宁国	yan si ning guo
+耶律察割	ye lv cha ge
+耶律德光	ye lv de guang
+耶律洪基	ye lv hong ji
+耶律李胡	ye lv li hu
+耶律隆绪	ye lv long xu
+耶律延禧	ye lv yan xi
+耶律宗真	ye lv zong zhen
+翼顺皇帝	yi shun huang di
+懿璘质班	yi lin zhi ban
+英文皇帝	ying wen huang di
+英武皇帝	ying wu huang di
+章敬皇帝	zhang jing huang di
+章圣皇帝	zhang sheng huang di
+章肃皇帝	zhang su huang di
+长城炀公	chang cheng yang gong
+长沙桓王	chang sha huan wang
+昭成皇帝	zhao cheng huang di
+昭慈皇后	zhao ci huang hou
+昭简皇帝	zhao jian huang di
+昭烈皇帝	zhao lie huang di
+昭明皇帝	zhao ming huang di
+昭武皇帝	zhao wu huang di
+昭宪皇帝	zhao xian huang di
+昭英皇帝	zhao ying huang di
+周考哲王	zhou kao zhe wang
+周慎靓王	zhou shen jing wang
+周威烈王	zhou wei lie wang
+周显圣王	zhou xian sheng wang
+周夷烈王	zhou yi lie wang
+周元安王	zhou yuan an wang
+周贞定王	zhou zhen ding wang
+朱邪执宜	zhu xie zhi yi
+庄敬皇帝	zhuang jing huang di
+答剌麻八剌	da la ma ba la
+大圣真皇帝	da sheng zhen huang di
+伏羲氏时期	fu xi shi shi qi
+后谥文皇帝	hou shi wen huang di
+济南闵悼王	ji nan min dao wang
+嘉靖帝改谥	jia jing di gai shi
+猛哥帖木儿	meng ge tie mu er
+神农氏时期	shen nong shi shi qi
+始兴昭烈王	shi xing zhao lie wang
+太昊伏羲氏	tai hao fu xi shi
+妥欢贴睦尔	tuo huan tie mu er
+拓跋沙漠汗	tuo ba sha mo han
+拓跋什翼犍	tuo ba shen yi jian
+完颜阿骨打	wan yan a gu da
+完颜劾里钵	wan yan he li bo
+完颜颇刺淑	wan yan po ci shu
+完颜乌古乃	wan yan wu gu nai
+完颜乌雅束	wan yan wu ya shu
+先天太上皇	xian tian tai shang huang
+耶律阿保机	ye lv a bao ji
+耶律耨里思	ye lv nou li si
+耶律撒剌的	ye lv sa la de
+耶律萨剌德	ye lv sa la de
+耶律匀德寔	ye lv yun de shi
+也孙铁木儿	ye sun tie mu er
+天赐礼盛国庆	tian ci li sheng guo qing
+天授礼法延祚	tian shou li fa yan zuo
+脱古思帖木儿	tuo gu si tie mu er
+爱猷识里达腊	ai you shi li da la
+爱育黎拔力八达	ai yu li ba li ba da
+
+
+############### 下面的太长了，根据需求解封 ########################
+
+#	冲圣嗣孝皇帝
+#	纯烈定昭皇帝
+#	大孝顺圣皇帝
+#	光圣仁孝皇帝
+#	和靖庆安皇帝
+#	后谥道武皇帝
+#	后谥简文皇帝
+#	后谥神武皇帝
+#	后谥孝庄皇帝
+#	惠元睿明皇帝
+#	浑元昭安皇帝
+#	简恭睿德皇帝
+#	立极文穆皇帝
+#	明睿穆宪皇帝
+#	钦明广孝皇帝
+#	仁惠宣孝皇帝
+#	仁圣景襄皇帝
+#	睿圣文孝皇帝
+#	睿文孝武皇帝
+#	睿武孝文皇帝
+#	神武圣肃皇帝
+#	神武孝文皇帝
+#	圣明元孝皇帝
+#	圣文钦孝皇帝
+#	顺章孝平皇帝
+#	文惠明孝皇帝
+#	文献钦义皇帝
+#	武惠成襄皇帝
+#	献敏恭简皇帝
+#	孝安敬正皇帝
+#	孝成康靖皇帝
+#	孝恭懿圣皇帝
+#	孝和庄宪皇帝
+#	孝武惠文皇帝
+#	翼献景孝皇帝
+#	懿宪景元皇帝
+#	英烈惠桓皇帝
+#	渊穆玄德皇帝
+#	则天大圣皇后
+#	昭圣衍孝皇帝
+#	昭武睿圣皇帝
+#	光圣神闵孝皇帝
+#	惠圣恭定孝皇帝
+#	仁圣大孝文皇帝
+#	睿圣文惠孝皇帝
+#	睿武昭愍孝皇帝
+#	神武元圣孝皇帝
+#	圣穆景文孝皇帝
+#	文武大孝宣皇帝
+#	无上孝明高皇帝
+#	元圣昭献孝皇帝
+#	昭圣恭惠孝皇帝
+#	昭宣光烈孝皇帝
+#	至道昭肃孝皇帝
+#	端文明武景孝皇帝
+#	法天启运圣武皇帝
+#	恭文顺德仁孝皇帝
+#	圣德和武钦孝皇帝
+#	圣德神功文武皇帝
+#	文成神圣孝章皇帝
+#	裕文昭武愍孝皇帝
+#	大和大圣大昭孝皇帝
+#	大圣大明神烈天皇帝
+#	睿文圣武昭肃孝皇帝
+#	圣神恭肃文武孝皇帝
+#	圣文章武明德孝皇帝
+#	玄真大圣大兴孝皇帝
+#	至道大圣大明孝皇帝
+#	弘基缵武庄靖孝成皇帝
+#	文明武德大圣大宣孝皇帝
+#	昭文章武大圣至神孝皇帝
+#	至德弘道大圣大安孝皇帝
+#	高上大道金阙玄元天皇大帝
+#	体道弘仁英文睿德光孝皇帝
+#	光天兴运文德武功圣明仁孝皇帝
+#	继天兴统述道勤仁英武圣孝皇帝
+#	立德显仁启圣广运文武简肃皇帝
+#	上灵高道九天司命保生天尊大帝
+#	宪古弘道文昭武烈章孝睿明皇帝
+#	宪天光运仁文义武神圣英孝皇帝
+#	允恭克让孝德玄功佑圣景宣皇帝
+#	体元应运世德昭功哲惠仁圣文烈皇帝
+#	懋德修道广业定功安民立政诚敬义皇帝
+#	法天备道纯德茂功仁文哲武圣睿恭孝皇帝
+#	建道备德大功复兴烈文仁武圣明安孝皇帝
+#	立道肇基积德起功懿文宪武睿和至孝皇帝
+#	启运立极英武睿文神德圣功至明大孝皇帝
+#	绍天法古运德建功英文烈武钦仁圣孝皇帝
+#	绍统同道冠德昭功哲文神武明圣成孝皇帝
+#	受命中兴全功至德圣神武文昭仁宪孝皇帝
+#	体干应历隆功盛德宪文肃武睿圣宣孝皇帝
+#	体神合道骏烈逊功圣文仁德慈宪显孝皇帝
+#	体天法道极功全德神文圣武睿哲明孝皇帝
+#	宪元继道显德定功钦文睿武齐圣昭孝皇帝
+#	循道宪仁明功茂德温文顺武圣哲慈孝皇帝
+#	应符稽古神功让德文明武定章圣元孝皇帝
+#	应干兴运昭德定功仁明庄孝大圣武元皇帝
+#	至仁应道神功圣德文武睿烈大明广孝皇帝
+#	承天达道英肃睿哲昭德显功弘文思孝毅皇帝
+#	崇天契道英睿恭纯宪文景武渊仁懿孝贞皇帝
+#	处天承道诚敬英哲缵文备武宣仁度孝简皇帝
+#	达天明道识纯中正圣文神武至仁大德敬皇帝
+#	达天闻道敦孝笃友章文襄武靖穆庄勤悊皇帝
+#	法天立道仁明诚敬昭文宪武至德广孝睿皇帝
+#	范天合道哲肃敦简光文章武安仁止孝显皇帝
+#	符天建道恭仁康定隆文布武显德崇孝景皇帝
+#	继天凝道诚明仁敬崇文肃武宏德圣孝纯皇帝
+#	敬天体道纯诚至德弘文钦武章圣达孝昭皇帝
+#	慕天敷道贞纯肃哲修文显武圣敬仁毅孝皇帝
+#	配天至道弘毅肃穆思文烈武敏仁广孝襄皇帝
+#	启天弘道高明肇运圣武神功纯仁至孝文皇帝
+#	契天隆道渊懿宽仁显文光武纯德弘孝庄皇帝
+#	钦天履道英毅神圣宣文广武洪仁大孝肃皇帝
+#	绍天绎道刚明恪俭揆文奋武敦仁懋孝烈皇帝
+#	嗣天章道诚懿渊功观文扬武克仁笃孝让皇帝
+#	体天昌道庄毅温弘兴文宣武仁智诚孝端皇帝
+#	体天弘道高明广运圣武神功纯仁至孝文皇帝
+#	宪天崇道英明神圣钦天昭武宽仁纯孝章皇帝
+#	应天推道敏毅恭俭经文纬武礼仁克孝匡皇帝
+#	知天守道洪德渊仁宽穆纯圣恭简敬文献皇帝
+#	元圣至明成武献文睿智章仁神聪懿道大孝皇帝
+#	开天行道肇纪立极大圣至神仁文义武俊德成功高皇帝
+#	同天崇运大中至正经文纬武仁孝睿智端俭宽勤景皇帝
+#	法天隆运至诚先觉体元立极敷文奋武钦明孝慈神圣纯皇帝
+#	合天弘运文武睿哲恭俭宽裕孝敬诚信中和功德大成仁皇帝
+#	继天开运受中居正保大定功圣智诚孝信敏恭宽明肃毅皇帝
+#	敬天昌运建中表正文武英明宽仁信毅睿圣大孝至诚宪皇帝
+#	受天兴运敷化绥猷崇文经武光裕孝恭勤俭端敏英哲睿皇帝
+#	体天隆运定统建极英睿钦文显武大德弘功至仁纯孝章皇帝
+#	效天符运立中体正至文圣武智勇仁慈俭勤孝敏宽定成皇帝
+#	协天翊运执中垂谟懋德振武圣孝渊恭端仁宽敏庄俭显皇帝
+#	应天兴国弘德彰武宽温仁圣睿孝敬敏昭定隆道显功文皇帝
+#	承天广运圣德神功肇纪立极仁孝睿武端毅钦安弘文定业高皇帝
